@@ -1,0 +1,10 @@
+program generateCode;
+var
+    ParamCount: integer;
+
+begin
+  ParamCount := ParamCount;
+  writeln( ParamCount);
+
+end.
+
